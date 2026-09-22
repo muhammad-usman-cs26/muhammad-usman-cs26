@@ -67,8 +67,7 @@ Multiple Linear Regression
 - MAE: 1.87
 - RMSE: 2.09
 
-🔗 Check out the project in my GitHub repositories.
-
+🔗 [View Student Performance Prediction Project](https://github.com/muhammad-usman-cs26/python-data-analysis)
 ---
 
 ## 📈 Currently Learning
